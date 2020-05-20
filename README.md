@@ -2,7 +2,7 @@
 
 ## That's how Amazing team looks like:
 
-1. [Mame]()
+1. [Mame](Mame.md)
 2. [Nour]()
 3. [Alex](Alex.md)
 4. [Oguz](Oguz.md)
