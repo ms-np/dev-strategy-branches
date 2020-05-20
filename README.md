@@ -4,7 +4,7 @@
 
 1. [Mame]()
 2. [Nour]()
-3. [Alex]()
+3. [Alex](Alex.md)
 4. [Oguz]()
 5. [Ali]()
 6. [Nadia]()

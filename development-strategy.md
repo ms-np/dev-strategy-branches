@@ -2,17 +2,16 @@
 
 > `Amazing Team`
 
-write a short description of your web page:
+A short description of this page:
 
 - what is it about? 
 
-The page is created as an intro of the Amazing team members
+> The page is created as an intro of the Amazing team members
 - who would want to read it? 
 
-It is made for the use purpose of the group members themselves, as well as the students of the other groups, coaches and any other visitor of the page
+> It is made for the use purpose of the group members themselves, as well as the students of the other groups, coaches and any other visitor of the page
 - why would they want to read it? 
-
-If you wanna be Amazing yourself, get to know Amazing team :)
+> If you wanna be Amazing yourself, get to know Amazing team :)
 
 ## 0. Set-Up
 
@@ -45,15 +44,15 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. User Story: introducing _Alex_
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *Alex*__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a brach called `Alex`
 
-### name.md
+### Alex.md
 
 Write a markdown bio page for this team member
 
