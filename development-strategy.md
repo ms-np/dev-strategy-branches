@@ -116,15 +116,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 6. User Story: introducing _Mame_
+## 6. User Story: introducing _Ali_
 
-__As a site visitor, I want to learn more about *Mame*__
+__As a site visitor, I want to learn more about *Ali*__
 
 ### Repo
 
-This user story was developed on a brach called `Mame`
+This user story was developed on a brach called `Ali`
 
-### Mame.md
+### Ali.md
 
 Write a markdown bio page for this team member
 
