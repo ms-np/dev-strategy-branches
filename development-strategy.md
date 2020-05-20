@@ -80,7 +80,75 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-... fill out one section for each team member ...
+## 4. User Story: introducing _Mame__
+
+__As a site visitor, I want to learn more about *Mame*__
+
+### Repo
+
+This user story was developed on a brach called `Mame`
+
+### Mame.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 5. User Story: introducing _Mame__
+
+__As a site visitor, I want to learn more about *Mame*__
+
+### Repo
+
+This user story was developed on a brach called `Mame`
+
+### Mame.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 6. User Story: introducing _Mame__
+
+__As a site visitor, I want to learn more about *Mame*__
+
+### Repo
+
+This user story was developed on a brach called `Mame`
+
+### Mame.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 7. User Story: introducing _Mame__
+
+__As a site visitor, I want to learn more about *Mame*__
+
+### Repo
+
+This user story was developed on a brach called `Mame`
+
+### Mame.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 
 ---
 
