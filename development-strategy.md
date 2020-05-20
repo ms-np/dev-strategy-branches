@@ -62,15 +62,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3. User Story: introducing _Oguz_
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about *Oguz*__
 
 ### Repo
 
-This user story was developed on a brach called `name`
+This user story was developed on a brach called `Oguz`
 
-### name.md
+### Oguz.md
 
 Write a markdown bio page for this team member
 
